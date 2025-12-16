@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eqsl-designer/static/css/main.e6c13ad2.css",
+    "main.js": "/eqsl-designer/static/js/main.e3a4e783.js",
+    "static/js/453.513975d5.chunk.js": "/eqsl-designer/static/js/453.513975d5.chunk.js",
+    "index.html": "/eqsl-designer/index.html",
+    "main.e6c13ad2.css.map": "/eqsl-designer/static/css/main.e6c13ad2.css.map",
+    "main.e3a4e783.js.map": "/eqsl-designer/static/js/main.e3a4e783.js.map",
+    "453.513975d5.chunk.js.map": "/eqsl-designer/static/js/453.513975d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e3a4e783.js"
+  ]
+}
